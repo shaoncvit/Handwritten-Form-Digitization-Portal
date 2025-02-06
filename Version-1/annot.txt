@@ -1,0 +1,217 @@
+{'1_ Name (in Block Letter): ': ['SHAON BHATTACHARTYA '], 
+"2. Father's Name/Mother s Name: ": ['JAYANTA BHIATTACARYYA '], 
+'3. Department: ': ['COMPUTER SCIENCE '], 
+'4 Current Designation & Grade Pay: ': ['CtudeNT '], 
+'5. Date of Last Promotion: ': ['12/02-{2022 '], 
+'6 Which position and grade pay are YOu an applicant under CAS? ': [''], 
+'7_ Date Of eligibility for promotion: ': ['{0 - 03 2023 '], 
+'8_ Date and Place of Birth: ': ['KOLKATA '], 
+'9 Sex: ': ['HALE '], 
+'10. Marital status: ': ['Not MARRIED '], 
+'11. Nationality: ': ['INDIAN '], 
+'12. Indicate whether belongs to SCISTIOBC category: ': [''], 
+'13. Address for correspondence (with Pin code) ': [''], 
+'14. (a)Permanent Address (with Pin code) ': ['KoLkATA ) 7oooo1 '], 
+'14.(b) Contact No: ': ['6296232214 ', ''], 
+'14.(c) Email: ': []}
+
+#English-1-School
+
+{'1.Name (in Block Letter): ': ['SHyAM DAS'], 
+"2. Father's Name/Mother s Name: ": ['RAM DAS'], 
+'3. Department: ': ['Biotech'], 
+'4 Current Designation & Grade Pay: ': ['Manager 23000'], 
+'5. Date of Last Promotion: ': ['01/05/24'], 
+'6 Which position and grade pay are You an applicant under CAS? ': ['PHD'], 
+'7 Date Of eligibility for promotion: ': ['02/04/2024'], 
+'8 Date and Place of Birth: ': ['02/02/1998 BELUR'], 
+'9 Sex: ': ['MALE '], 
+'10. Marital status: ': ['MARRIED '], 
+'11. Nationality: ': ['INDIAN '], 
+'12. Indicate whether belongs to SC/ST/OBC category: ': ['GENERAL'], 
+'13. Address for correspondence (with Pin code) ': ['700002'], 
+'14. (a)Permanent Address (with Pin code) ': ['24/6 RAMKRISHNA COLORY, KAJRAPARA, HOWRAH 70004'], 
+'14.(b) Contact No: ': ['869724336'], 
+'14.(c) Email: ': ['shyamdas123@gmail.com']}
+
+
+#Raliway
+
+{'Train No. & Name:' : ['124567, Shatabdi'],
+'Date of Journey:' : ['1-3-2009'],
+'Class:' : ['1A'],
+'No of Berth/Seats:' : ['62'],
+'Station From:' : ['Bengaloro'],
+'To:' : ['Delhi'],
+'Boarding at:' : ['Bengnloru'],
+'Reservation Upto:' : ['Delhi'],
+'Name in Block Letters (not more than 15 Characters)' : ['SHIVANG RAJA', 'ANISHKA CHAHAL'],
+'Gender M/F' : ['M', 'F'],
+'Age' : ['34', '69'],
+'Concession/ Travel Authority No.' : ['12', '52'],
+'Berth Choice Lower/ Upper' : ['Upper', 'Lower'],
+'Veg/ Non-Veg for Rajdhani Shatabdi Exp Only' : ['Veg', 'Non Veg'],
+'Train No & Name:' : ['124567, Shatabdi'],
+'Date of Journey:' : ['1-3-2000'],
+'Class:' : ['1A'],
+'No of Berth/Seats:' : ['62'],
+'Station From:' : ['Bengaloru'],
+'To:' : ['Delhi'],
+'Name of Applicant:' : ['Virat Chaturtedi'],
+'Full Address:' : ['Whitetield, flat 267, kamla colony'],
+'Tel/Mob. No. if any:' : [''],
+'Date:' : ['2-25-2009'],
+'Time:' : ['6:30 n']
+}
+
+
+#English-School-2
+
+{'DEPARMENT/SCHOOL/INSTITUTION' : ['Comperative Literature'],
+'Name in full (in Block letters)' : ['Ananth Mitra'],
+'Sex(Male/Female):' : ['Male'],
+'Address for Communication:' : ['C.R Mal Road'],
+'Phone No.' : [''],
+'Mobile No.' : ['9997774997'],
+'Name of Subject/ course' : ['History', 'Geography', 'Polity', 'French']
+'Subject Code' : ['A105', 'A102', 'A110', 'L123'],
+'Dept./School/Institution under which subject is offered' : ['JU Artr', 'JU Artr', 'JU Artr', 'JU Lamguage'],
+'Date' : ['24/04/2023'],
+'Signature of the student in full' : [''],
+'Signature of the Dean, Faculty of' : [''],
+'Registration No.' : ['1297416'],
+'of' : ['2016'],
+'Date of Registration' : ['24/07/16']}
+
+
+Telegu-1
+
+{'ఆధార్ నెంబర్:' : ['9111 9526 5266'],
+'పేరు ( ఆధార్ ప్రకారం, ఇంగ్లీష్ లో ):' : ['వి మహేష్ '],
+'తండ్రి పేరు / భర్త పేరు ( ఆధార్ ప్రకారం, ఇంగ్లీష్ లో ):' : ['రంగయ్య'],
+'లింగం:' : ['పురుషుడ'],
+'ఆధార్ కార్డు ప్రకారం వయసు : ( రోజు/నెల /సంవత్సరం ):' : ['17/09/2000'],
+'కులం:' : ['బిసి'] ,
+'మతం:' : ['హిందూమతం'],
+'విద్య అర్హత ( ఎంత వరుకు చదువుకున్నారు ):' : ['డిగ్'],
+'వైవాహిక స్థితి : (Divorced / Married / Unmarried / Window):' : ['పెళ్ళికాలేదు'],
+'మొబైల్ నెంబర్:' : ['8886820252'],
+'పెర్మనెంట్ అడ్రెస్:' : ['గచ్చిబౌలి'],
+'డోర్ నెం:' : ['1/83/1234'],
+'జిల్లా:' : ['రంగారెడ్డి'],
+'సచివాలయం:' : ['గచ్చిబౌలి'],
+'వీధి / ఏరియా:' : ['ఆరవ నంబర్ వీధి'],
+'మండలము:' : ['లింగపల్లి'],
+'పిన్ కోడ్:' : ['501510'],
+'ప్రస్తుత అడ్రస్:' : ['పాచార్'],
+'డోర్ నెం:' : ['1/83/12 '],
+'జిల్లా:' : ['వికారాబాద్'],
+'సచివాలయం:' : ['మోహినబాద్'],
+'వీధి / ఏరియా:' : ['చిలుకురు'],
+'మండలము:' : ['లింగపల్లి'],
+'పిన్ కోడ్:' : ['501524']
+}
+
+
+Telugu-2
+{'ఆధార్ నెంబర్:' : ['2546 8811 7629'],
+'పేరు ( ఆధార్ ప్రకారం, ఇంగ్లీష్ లో ):' : ['లక్ష్మ.మ్'],
+'తండ్రి పేరు / భర్త పేరు ( ఆధార్ ప్రకారం, ఇంగ్లీష్ లో ):' : ['వెంకటేశ్వర రావు.మ్'],
+'లింగం:' : ['స్త్రీ'],
+'ఆధార్ కార్డు ప్రకారం వయసు : ( రోజు/నెల /సంవత్సరం ):' : ['28'],
+'కులం:' : ['బిసి -బి'] ,
+'మతం:' : ['హిందు'],
+'విద్య అర్హత ( ఎంత వరుకు చదువుకున్నారు ):' : ['10 వ తరగతి'],
+'వైవాహిక స్థితి : (Divorced / Married / Unmarried / Window):' : [''],
+'మొబైల్ నెంబర్:' : ['9988776521'],
+'పెర్మనెంట్ అడ్రెస్:' : [''],
+'డోర్ నెం:' : ['13-117/12/B'],
+'జిల్లా:' : ['కోనసిమ'],
+'సచివాలయం:' : ['పోలవరం'],
+'వీధి / ఏరియా:' : ['రాయుడు వారి వీధి'],
+'మండలము:' : ['పోలవరం సి'],
+'పిన్ కోడ్:' : ['533221'],
+'ప్రస్తుత అడ్రస్:' : [''],
+'డోర్ నెం:' : ['13-22/4-B2'],
+'జిల్లా:' : ['తూర్పు గోదవారి '],
+'సచివాలయం:' : ['కాట్రేనకొనా'],
+'వీధి / ఏరియా:' : ['పెరచేరువు '],
+'మండలము:' : ['కాట్రేనకొనా '],
+'పిన్ కోడ్:' : ['530320']
+}
+
+
+
+
+Telugu-3
+{'ఆధార్ నెంబర్:' : ['353958231922'],
+'పేరు ( ఆధార్ ప్రకారం, ఇంగ్లీష్ లో ):' : ['కె.పావని'],
+'తండ్రి పేరు / భర్త పేరు ( ఆధార్ ప్రకారం, ఇంగ్లీష్ లో ):' : ['కె.సత్యనారయణ'],
+'లింగం:' : ['స్త్రీ'],
+'ఆధార్ కార్డు ప్రకారం వయసు : ( రోజు/నెల /సంవత్సరం ):' : ['28-05-1996'],
+'కులం:' : ['బిసి -బి'] ,
+'మతం:' : ['హిందు'],
+'విద్య అర్హత ( ఎంత వరుకు చదువుకున్నారు ):' : ['డిగ్రీ'],
+'వైవాహిక స్థితి : (Divorced / Married / Unmarried / Window):' : [''],
+'మొబైల్ నెంబర్:' : ['9970250624'],
+'పెర్మనెంట్ అడ్రెస్:' : ['రాజమండ్రి'],
+'డోర్ నెం:' : ['2-32/7'],
+'జిల్లా:' : ['తూర్పు గోదావారి '],
+'సచివాలయం:' : ['గంగవరం'],
+'వీధి / ఏరియా:' : ['శ్రీనగర్'],
+'మండలము:' : ['గంగవరం '],
+'పిన్ కోడ్:' : ['500092'],
+'ప్రస్తుత అడ్రస్:' : ['కాకినాడ'],
+'డోర్ నెం:' : ['1-108/A'],
+'జిల్లా:' : ['తూర్పు గోదావారి'],
+'సచివాలయం:' : ['కాజులూరు'],
+'వీధి / ఏరియా:' : ['గోపినగర్ '],
+'మండలము:' : ['కాజులూరు '],
+'పిన్ కోడ్:' : ['500093']
+}
+
+
+Telugu-4
+
+{'ఆధార్ నెంబర్:' : ['9539 2701 8332'],
+'పేరు ( ఆధార్ ప్రకారం, ఇంగ్లీష్ లో ):' : ['హారిక'],
+'తండ్రి పేరు / భర్త పేరు ( ఆధార్ ప్రకారం, ఇంగ్లీష్ లో ):' : ['అశోక్  రెడ్డి'],
+'లింగం:' : ['స్త్రీ లింగం'],
+'ఆధార్ కార్డు ప్రకారం వయసు : ( రోజు/నెల /సంవత్సరం ):' : ['05/05/2000'],
+'కులం:' : ['బి.సి.ఇ'] ,
+'మతం:' : ['హిందూ'],
+'విద్య అర్హత ( ఎంత వరుకు చదువుకున్నారు ):' : ['పదో  తరగతి'],
+'వైవాహిక స్థితి : (Divorced / Married / Unmarried / Window):' : [''],
+'మొబైల్ నెంబర్:' : ['9848903605'],
+'పెర్మనెంట్ అడ్రెస్:' : [''],
+'డోర్ నెం:' : ['22/6'],
+'జిల్లా:' : ['కడప'],
+'సచివాలయం:' : ['కడప'],
+'వీధి / ఏరియా:' : ['శివాలయం'],
+'మండలము:' : ['కడప'],
+'పిన్ కోడ్:' : ['702381'],
+'ప్రస్తుత అడ్రస్:' : [''],
+'డోర్ నెం:' : ['50-5'],
+'జిల్లా:' : ['రాయచోటి'],
+'సచివాలయం:' : ['రాయచోటి'],
+'వీధి / ఏరియా:' : ['శివాలయం'],
+'మండలము:' : ['రాజంపేట'],
+'పిన్ కోడ్:' : ['503198']
+}
+
+
+Hindi-1
+{'First Name,प्रथम नाम' : ['राज'],
+'Middle Name, मध्य नाम' : [''],
+'Last Name, अंतिम नाम' : ['पुरोहित'],
+'Date of Birth, जन्म दिनांक' : ['1-1-2001'],
+'Permanent Address, स्थायी पता' : ['बरमा कोलोनि , फलाट 25'],
+'Category of card holder,कार्ड धारक की श्रेणी' : ['जेनरल'],
+'Proof of Identity, पहचान हेतु प्प्रस्तुत प्रमाण ' : ['आधार'],
+'Gender (F/M), प्लिंग (स्त्री / पुरुष )' : ['पुरुष'],
+'E-Mail, ई-मेल' : ['राजा जिमेल.कोम'],
+'Tel. No., दूरभाष नं.' : ['1234567890'],
+'Signature of Applicant, प्रार्थी के हस्ताक्षर' : [''],
+'Name of Depot, आगार का नाम ' : ['खेती'],
+'Remarks, टिप्पणी' : ['']
+}
