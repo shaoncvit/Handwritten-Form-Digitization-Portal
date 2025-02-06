@@ -29,10 +29,10 @@ For demonstration purposes, you can log in using:
 
 
 ### English
-![English Template 1](Version-1/form_template_info/template_1/template_1.jpg)
-![English Template 2](Version-1/form_template_info/template_2/template_2.jpg)
-![English Template 3](Version-1/form_template_info/template_3/template_3.jpg)
-![English Template 4](Version-1/form_template_info/template_4/template_4.jpg)
+![English Template 1](Version-1/used_templates/template_1.jpg)
+![English Template 2](Version-1/used_templates/template_2.png)
+![English Template 3](Version-1/used_templates/template_3.png)
+![English Template 4](Version-1/used_templates/template_4.png)
 
 
 
