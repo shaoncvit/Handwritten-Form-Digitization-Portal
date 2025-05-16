@@ -12,5 +12,7 @@ urlpatterns = [
     path('assigned_form/<int:page_num>/', views.assigned_form_page, name='assigned_form_page'),
     path('download_single_entry/<str:form_id>/', views.download_single_entry, name='download_single_entry'),
     path('download_all_assigned/', views.download_all_assigned, name='download_all_assigned'),
+    path('admin-portal/', views.admin_portal, name='admin_portal'),
+    path('admin-download-user/<int:user_id>/', views.admin_download_user_txts, name='admin_download_user_txts'),
     # Add more as needed
 ]

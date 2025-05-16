@@ -14,6 +14,8 @@ from weasyprint import HTML
 from django.template.loader import render_to_string
 import subprocess
 import sys
+from django.contrib.admin.views.decorators import staff_member_required
+from django.utils.text import slugify
 
 # Create your views here.
 
@@ -98,17 +100,23 @@ def logout_view(request):
 def dashboard(request):
     user = request.user
     name = user.first_name
-    unique_id = user.username  # since you use unique_id as username
+    unique_id = user.username
+
+    # Get all forms assigned to this user
+    user_forms = FilledForm.objects.filter(user=user)
+    num_forms_done = user_forms.count()
+    form_ids = list(user_forms.values_list('form_id', flat=True))
 
     if request.method == 'POST':
         num_forms = int(request.POST['num_forms'])
-        # Store the number in session or pass as GET param
         request.session['num_forms'] = num_forms
-        return redirect('start_forms')  # You will create this view next
+        return redirect('start_forms')
 
     return render(request, 'portal/dashboard.html', {
         'name': name,
         'unique_id': unique_id,
+        'num_forms_done': num_forms_done,
+        'form_ids': form_ids,
         'range': range(1, 51),
     })
 
@@ -122,14 +130,23 @@ def start_forms(request):
     all_form_files = [f for f in os.listdir(forms_dir) if f.endswith('.pdf')]
     all_form_ids = [os.path.splitext(f)[0] for f in all_form_files]
 
-    # Get forms already filled by this user (if you track this in DB, use that)
-    filled_forms = set()  # You can load this from your FilledForm model if needed
+    # Get forms already assigned to this user
+    already_assigned = set(FilledForm.objects.filter(user=user).values_list('form_id', flat=True))
 
-    # Assign random forms not already filled
-    available_forms = list(set(all_form_ids) - filled_forms)
+    # Assign random forms not already assigned
+    available_forms = list(set(all_form_ids) - already_assigned)
     if len(available_forms) < num_forms:
         num_forms = len(available_forms)
     assigned_forms = random.sample(available_forms, num_forms)
+
+    # For each assigned form, run the generation script and save assignment
+    for form_id in assigned_forms:
+        # Run the generation script: Handwritten-Form-Digitization-Portal/form_making/{form_id}.py
+        script_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../form_making/{}.py'.format(form_id)))
+        subprocess.run([sys.executable, script_path], check=True)
+        # Save the assignment in the database
+        txt_path = f'final_selected_filled/{form_id}_filled.txt'
+        FilledForm.objects.create(user=user, form_id=form_id, txt_path=txt_path)
 
     # Store assigned forms in session
     request.session['assigned_forms'] = assigned_forms
@@ -150,6 +167,8 @@ def assigned_form_page(request, page_num):
     form_id = assigned_forms[page_num - 1]
     pdf_path = os.path.join(settings.MEDIA_ROOT, 'final_selected', f'{form_id}.pdf')
     filled_path = os.path.join(settings.MEDIA_ROOT, 'final_selected_filled', f'{form_id}_filled.txt')
+    # filled_path = os.path.join('Handwritten-Form-Digitization-Portal/final_selected_filled', f'{form_id}.txt')
+    print(filled_path)
 
     # Read filled text
     filled_text = ''
@@ -228,3 +247,31 @@ def process_filled_text(filled_text):
         else:
             lines.append({'before': line, 'after': None})
     return lines
+
+@staff_member_required
+def admin_portal(request):
+    users = User.objects.all()
+    user_data = []
+    for user in users:
+        forms = FilledForm.objects.filter(user=user)
+        user_data.append({
+            'user': user,
+            'forms': forms,
+        })
+    return render(request, 'portal/admin_portal.html', {'user_data': user_data})
+
+@staff_member_required
+def admin_download_user_txts(request, user_id):
+    user = User.objects.get(id=user_id)
+    forms = FilledForm.objects.filter(user=user)
+    mem_zip = io.BytesIO()
+    with zipfile.ZipFile(mem_zip, 'w') as zf:
+        for form in forms:
+            txt_path = os.path.join(settings.MEDIA_ROOT, form.txt_path)
+            if os.path.exists(txt_path):
+                with open(txt_path, 'rb') as f:
+                    zf.writestr(f'{form.form_id}_filled.txt', f.read())
+    mem_zip.seek(0)
+    response = HttpResponse(mem_zip, content_type='application/zip')
+    response['Content-Disposition'] = f'attachment; filename={slugify(user.username)}_all_filled_txts.zip'
+    return response

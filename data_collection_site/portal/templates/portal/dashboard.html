@@ -11,19 +11,29 @@
             <div class="card p-4">
                 <h2 class="mb-4 text-center">Welcome, {{ name }}!</h2>
                 <p class="text-center">Your unique ID: <b>{{ unique_id }}</b></p>
+                <p>You have completed <b>{{ num_forms_done }}</b> forms.</p>
+                {% if form_ids %}
+                    <p>Your assigned forms:</p>
+                    <ul>
+                        {% for fid in form_ids %}
+                            <li>{{ fid }}</li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
                 <form method="post" class="mt-4">
                     {% csrf_token %}
                     <div class="mb-3">
-                        <label for="num_forms" class="form-label">How many forms do you want to fill?</label>
+                        <label for="num_forms" class="form-label">How many new forms do you want to fill?</label>
                         <select class="form-select" id="num_forms" name="num_forms" required>
                             {% for i in range %}
                                 <option value="{{ i }}">{{ i }}</option>
                             {% endfor %}
                         </select>
                     </div>
-                    <button type="submit" class="btn btn-success w-100">Start</button>
+                    <button type="submit" class="btn btn-primary w-100">Get Forms</button>
                 </form>
                 <div class="text-center mt-4">
+                    <a href="{% url 'assigned_form_page' page_num=1 %}" class="btn btn-info mb-2">View Assigned Forms</a>
                     <a href="{% url 'logout' %}" class="btn btn-danger">Logout</a>
                 </div>
             </div>

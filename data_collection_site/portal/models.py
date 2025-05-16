@@ -12,7 +12,7 @@ class UserProfile(models.Model):
 
 class FilledForm(models.Model):
     user = models.ForeignKey(User, on_delete=models.CASCADE)
-    form_id = models.IntegerField()
+    form_id = models.CharField(max_length=32)
     txt_path = models.CharField(max_length=255)
     assigned_at = models.DateTimeField(auto_now_add=True)
 
