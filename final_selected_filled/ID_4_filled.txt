@@ -1,0 +1,38 @@
+Application for Employment
+Hanover and Tyke
+www.reallygreatsite.com
+hello@reallygreatsite.com
+PERSONAL INFORMATION
+Full Name: Animesh Chatterjee
+Date of Birth: 1983-01-26
+Gender: Male
+Address: 1st Floor, Gitanjali Apartments, 7A Beliaghata Main Road, Kolkata, West Bengal - 700085
+city: Kolkata
+State/Province: West Bengal
+Zip/Postal Code: 700085
+Country: India
+Phone Number: +91-9887788990
+Email Address: animesh.chatterjee@gmail.com
+EDUCATIONAL BACKGROUND
+Degree/Course: B.Com
+University/Institute: Delhi University
+Year of Graduate: 2013
+Grade: C
+City: Kolkata
+EMPLOYMENT HISTORY
+Employee: Wipro
+Job Title: Data Analyst
+Address: 1st Floor, Gitanjali Apartments, 7A Beliaghata Main Road, Kolkata, West Bengal - 700085
+Start Date: 2019-11-09
+End Date: 2024-12-12
+Responsibilities: Software Development
+Why I Quit: Relocation
+SKILLS & TRAINING
+Skill & Training Achievement(s): Python
+Level: Expert
+Year: 2015
+Institute: Coursera
+I affirm that my answers are truthful and thorough, recognizing that supplying
+false information could result in termination if I am hired.
+Date: 2025-05-14
+Signature: Animesh Chatterjee

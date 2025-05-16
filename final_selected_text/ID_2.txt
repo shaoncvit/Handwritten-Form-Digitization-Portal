@@ -1,0 +1,21 @@
+REGISTRATION FORM
+Name:
+Date of Birth:
+Address:
+Contact Number:
+Email:
+Occupation:
+Age:
+Gender:
+Civil Status:
+Citizenship:
+Height:
+Weight:
+Religion:
+Language:
+Father's Name:
+Occupation:
+Mother's Name:
+Occupation:
+Person to contact in case of emergency:
+Contact Number:

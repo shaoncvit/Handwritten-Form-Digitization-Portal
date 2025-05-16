@@ -1,0 +1,56 @@
+RTGS/ NEFT Request Form
+RTGS/ NEFT
+For RIGS/ NEFT
+Maximum Limit for NEFT Transaction
+HDFC Bank Customer: No Limit
+HDFC Bank Customer Indo Nepal NEFT Remittance: via Account Up to INR 200000/-
+Non HDFC Bank Customer & Indo Nepal NEFT Remittance: Up to INR 50,000/-
+Purpose of Remittance to Nepal tick one: (Family Maintenance/ Retirement Fund/ Pension Fund/ Others)
+Time:
+Customers Name:
+Account no:
+Chq no:
+Mobile No:
+Tel No:
+Remitter Legal Entity Identifier Code (LEI):
+("Only applicable for Rs 50 cr & abovo transaction for non individual accounts)
+LEI Expiry Date:
+Address of Remitter (Mandatory for Non HDFC Bank Customer):
+Email id:
+In case of Non HDFC Bank Customer Amount of
+Cash Deposited:
+Beneficiary details
+Name:
+Address:
+Account No:
+Re-Confirm Account no:
+Bank Name & Branch:
+IFSC Code:
+A/c Type:
+Beneficiary Legal Entity Identifier Code (LEI):
+("Only applicable for Rs.50 cr & above transaction for non-individual accounts)
+LEI Expiry Date:
+Amount to be credited (in figures):
+(In Words):
+Remarks:
+I/we agree to terms and conditions mentioned overleaf: For Indo Nepal remittance. I/we declare that the purpose of
+remittance is for above selected purpose only.
+Signature of Authorized signatory
+1st Signatory:
+2nd Signatory:
+3rd signatory:
+For bank Use only
+Processed by (Emp code and sign) Authorized by (Emp code and sign)
+DD/MC/UTR No Ref No
+Charges Recovered Rs (applicable only for Non Customer): Day end Checked by
+Transaction Authorized by (2nd Level) (for amount > 5 lacs):
+KYC documentation done by (only for Non-HDFC Bank Customers):
+Customers Copy
+Received applicalion for RTGS/ NEFT for an amount of Rs:
+vide Cash/ Cheque number:
+to be credited to Account number:
+of:
+Bank with IFSC Code:
+Customers will be guided by the Terms and Conditions mentioned in the form HDFC Bank will accept no liability for any consequences arising out of eronous
+details provided by the Customer.
+Request for MC/ DD / RTGS and NEFT can also be placed using Netbanking

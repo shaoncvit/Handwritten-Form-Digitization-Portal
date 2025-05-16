@@ -1,0 +1,18 @@
+Membership Form
+Fradel and Spies Fitness
+Personal Information
+Full Name:
+Place Birth:
+Birth of Date:
+Full Address:
+Nationality:
+city/country:
+Gander:
+Email:
+Phone Number:
+Type Of Membership #Choose your type of membership: 
+
+Term & Condition
+This membership is valid
+Membership includes the facilities available
+Membership is not automatic

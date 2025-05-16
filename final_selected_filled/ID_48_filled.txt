@@ -1,0 +1,57 @@
+STUDENT
+ADMISSION
+(Please fill out this form completely and accurately)
+
+1. Personal Information
+Full Name: SOURAV SEN
+Date of Birth: 05/09/2006
+Place of Birth: Kolkata
+Gender: Male
+Nationality: Indian
+Address: House No. 7, Lake Gardens Housing Complex, Prince Anwar Shah Road, Kolkata
+City: Kolkata
+Postal Code: 700045
+Phone Number: +91-9800011223
+Email Address: sourav.sen@gmail.com
+
+2. Academic Information
+Applying for Grade/ Level: 9
+Preferred Program: Arts Stream
+Previous School Name: Don Bosco School
+Previous Academic Records
+Year: 2023
+Grade/Score: 78%
+Year: 2023
+Grade/Score: 78%
+Achievements (if any): State-level Chess Champion
+
+3. Parent/Guardian Information
+Signature of Parent/Guardian: Mrs. Rekha SEN
+Father's Name: Mr. Sumit SEN
+Occupation: Businessman
+Contact Number: +91-8944780807
+Mother's Name: Mrs. Rekha SEN
+Date: 16/05/2025
+Occupation: Businessman
+Contact Number: +91-8944780807
+Guardian's Name (if applicable): 
+Relationship with Student: 
+Contact Number: +91-8944780807
+
+4. Emergency Contact
+Name: Mr. Sumit SEN
+Relationship: Father
+Contact Number: +91-8944780807
+
+5. Medical Information
+Does the student have any medical
+conditions?: Asthma
+Allergies (if any): Milk
+
+6. Additional Information
+How did you learn about our institution?: Social Media
+
+Declaration
+I, the undersigned, declare that all the
+information provided above is true and
+accurate to the best of my knowledge

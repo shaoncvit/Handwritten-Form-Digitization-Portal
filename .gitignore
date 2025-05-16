@@ -16,4 +16,5 @@ Version-1/db.sqlite3
 Version-1/testapp/__pycache__
 Version-1/testapp/migrations
 Version-1/testproject/__pycache__
-
+Version-1/captured_forms
+data_collection_site/media

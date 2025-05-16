@@ -1,0 +1,56 @@
+RTGS/ NEFT Request Form
+RTGS/ NEFT
+For RIGS/ NEFT
+Maximum Limit for NEFT Transaction
+HDFC Bank Customer:  No Limit
+HDFC Bank Customer Indo Nepal NEFT Remittance:  via Account Up to INR 200000/-
+Non HDFC Bank Customer & Indo Nepal NEFT Remittance:  Up to INR 50,000/-
+Purpose of Remittance to Nepal tick one: Pension Fund (Family Maintenance/ Retirement Fund/ Pension Fund/ Others)
+Time: 16/05/2025
+Customers Name: Animesh Chatterjee
+Account no: 13544974125
+Chq no: 123
+Mobile No: +91 9887788990
+Tel No: +91 9887788990
+Remitter Legal Entity Identifier Code (LEI): 
+("Only applicable for Rs 50 cr & abovo transaction for non individual accounts)
+LEI Expiry Date: 
+Address of Remitter (Mandatory for Non HDFC Bank Customer): 1st Floor, Gitanjali Apartments, 7A Beliaghata Main Road, Kolkata, West Bengal - 700085
+Email id: animesh.chatterjee@gmail.com
+In case of Non HDFC Bank Customer Amount of
+Cash Deposited: 
+Beneficiary details
+Name: Naveen Reddy
+Address: 52, Salt Lake, Hyderabad
+Account No: 13544974125
+Re-Confirm Account no: 83433884559
+Bank Name & Branch: Punjab National Bank, MG Road, Mumbai
+IFSC Code: ICIC0004321
+A/c Type: Non Resident
+Beneficiary Legal Entity Identifier Code (LEI): 
+("Only applicable for Rs.50 cr & above transaction for non-individual accounts)
+LEI Expiry Date: 
+Amount to be credited (in figures): 182758
+(In Words): 182758 Rupees Only
+Remarks: Pension Fund
+I/we agree to terms and conditions mentioned overleaf:  For Indo Nepal remittance. I/we declare that the purpose of
+remittance is for above selected purpose only.
+Signature of Authorized signatory
+1st Signatory: Ms. N. Sen
+2nd Signatory: Dr. A. Banerjee
+3rd signatory: Mr. S. Ghosh
+For bank Use only
+Processed by (Emp code and sign) Authorized by (Emp code and sign)
+DD/MC/UTR No Ref No
+Charges Recovered Rs (applicable only for Non Customer): 19 Day end Checked by
+Transaction Authorized by (2nd Level) (for amount > 5 lacs): Ms. N. Sen
+KYC documentation done by (only for Non-HDFC Bank Customers): Mr. R. Dutta
+Customers Copy
+Received applicalion for RTGS/ NEFT for an amount of Rs: 182758
+vide Cash/ Cheque number: Cash
+to be credited to Account number: 83433884559
+of: Naveen Reddy
+Bank with IFSC Code: ICIC0004321
+Customers will be guided by the Terms and Conditions mentioned in the form HDFC Bank will accept no liability for any consequences arising out of eronous
+details provided by the Customer.
+Request for MC/ DD / RTGS and NEFT can also be placed using Netbanking

@@ -1,5 +1,4 @@
 import cv2
-
 import numpy as np
 import csv
 import easyocr
@@ -24,7 +23,7 @@ class FormDigitization:
         self.temp_folder = "temp"
 
 
-    def run(self,template_image_path, input_image_path, ocr_type= "IIIT-H-OCR", ocr_lang = "hi"):
+    def run(self,template_image_path, input_image_path, ocr_type= "easyocr", ocr_lang = "en"):
         #segment the image for seperating out the foregorund and background
         print(ocr_type)
         os.makedirs(self.temp_folder, exist_ok = True)
@@ -83,8 +82,24 @@ class FormDigitization:
         utils.clear_folder(self.dir_alignv1_image)
         utils.clear_folder(self.temp_folder)
         utils.clear_folder(self.saved_masked_image_dir)
+        print("The final digitized result......")
+        print(key_val_pair)
 
         return key_val_pair
+
+
+
+
+form_digitization = FormDigitization()
+template_image_path = "form_template_info/english_test/english_test.png"
+input_image_path = "captured_forms/english_test/test_4.jpg"
+
+form_digitization.run(template_image_path, input_image_path)
+
+
+
+
+
 
 
 

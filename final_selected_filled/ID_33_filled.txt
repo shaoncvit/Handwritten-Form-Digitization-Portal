@@ -1,0 +1,22 @@
+NEFT SI Request Form
+Branch: Bank of Baroda MG Road Branch
+Date: 15/05/2025
+Beneficiary Details
+Beneficiary Name: Amit Sharma
+Beneficiary Account Number: 87548640999
+Beneficiary Account Number: 87548640999
+Beneficiary Bank: Bank of Baroda
+Beneficiary Account Type: NRE
+Beneficiary Branch Name & Address: MG Road, Hyderabad
+IFSC Code: UTIB0008765
+Remitter Details
+Remitter (Applicant) Name: Ritoban Bhattacharya
+Remitter Account Number: 52675165998
+Remitter Email ID: ritoban.bhattacharya@gmail.com
+Remitter Mobile number: +91 9812345678
+Standing Instruction Details
+Amount (in rupees): 80803
+Amount (in words): 80803 Rupees Only
+Execution date (DD/MM/YYYY format): 16/05/2025
+Last date (DD/MM/YYYY): 17/04/2026
+Frequency: Yearly 

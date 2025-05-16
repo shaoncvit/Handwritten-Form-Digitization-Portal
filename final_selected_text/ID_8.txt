@@ -1,0 +1,37 @@
+PSYCHIATRIC HISTORY FORM
+Section Details
+Demographic Information
+Name:
+Age:
+Gender:
+Occupation:
+Marital Status:
+Chief Complaint
+Presenting Issue:
+Duration of Symptoms:
+Severity:
+Medical History
+Past Psychiatric History:
+Medical Conditions:
+Substance Use:
+Family Psychiatric History
+Family History:
+Substance Use in Family:
+Social History
+Living Situation:
+Education:
+Social Support:
+Legal Issues:
+Psychosocial Functioning
+Employment Status:
+Relationships:
+Daily Activities:
+Treatment History
+Current Medications:
+Previous Treatments:
+Diagnosis
+Primary Diagnosis:
+Secondary Diagnosis:
+Plan
+Treatment Goals:
+Proposed Interventions:

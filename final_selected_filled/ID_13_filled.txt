@@ -1,0 +1,20 @@
+UNIVERSITY OF HYDERABAD
+1 Roll No: 100166
+2 Name of the Student: Mainak Sarkar
+3 Name of the Hindi: 
+4 Course: MBA
+5 Subject: Economics
+6 Dept./Centre: Department of Economics
+7 School: Indian Institute of Technology Gandhinagar
+8 Date of Birth: 21-08-1998
+9 Gender (Male/Female): Male
+10 Nationality: Indian
+11 State of Domicile: Gujarat
+12 Blood Group: AB-
+13 Father's Name: Rajesh Sarkar
+14 Mother's Name: Sunita Sarkar
+15 Date of Admission to the Course: 21-07-2022
+16 CGPA or Marks obtained: 7.73
+17 Division obtained: Second
+18 Date of declaration of result by the CE's Office: 19-02-2025
+19 Month and Year of award: April 2025

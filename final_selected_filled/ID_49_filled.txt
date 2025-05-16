@@ -1,0 +1,18 @@
+Membership Form
+Fradel and Spies Fitness
+Personal Information
+Full Name: RITOBAN BHATTACHARYA
+Place Birth: Kolkata
+Birth of Date: 03/07/2006
+Full Address: Flat 2B, Saptarshi Apartments, 102 Jodhpur Park, Kolkata
+Nationality: Indian
+city/country: Kolkata, India
+Gander: Male
+Email: ritoban.bhattacharya@gmail.com
+Phone Number: +91-9812345678
+Type Of Membership #Choose your type of membership: Regular (3 month) 
+
+Term & Condition
+This membership is valid
+Membership includes the facilities available
+Membership is not automatic

@@ -1,0 +1,24 @@
+ORDER FORM
+NAME: Naveen Reddy
+ORDER NO: ORD56030
+DATE: 05-14-2025
+COMPANY: Mahindra & Mahindra
+PHONE NO: +91-9988123456
+EMAIL: naveen.reddy@gmail.com
+ADDRESS: Villa No. 9, Pearl City Villas, Jubilee Hills, Hyderabad, Telangana - 500033
+ORDER DETAILS
+NO: 1, 2
+ITEM DESCRIPTION: Sticky Notes (Pack of 12), A4 Printing Paper (500 sheets)
+QTY: 9, 7
+PRICE: ₹80, ₹350
+DISCOUNT: 5%, 5%
+TOTAL: ₹3603
+TAX: ₹542
+SHIPPING: ₹50
+TOTAL: ₹3603
+METHOD
+DATE: 05-14-2025
+TRACKING NO: TRK350546
+DATE RECEIVED: 05-17-2025
+ORDER STATUS: DELIVERED
+NOTES: Contact before delivery

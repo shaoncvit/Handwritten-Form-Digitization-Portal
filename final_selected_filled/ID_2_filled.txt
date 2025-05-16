@@ -1,0 +1,21 @@
+REGISTRATION FORM
+Name: Amit Sharma
+Date of Birth: 1995-06-29
+Address: Metro Heights Apartments, Connaught Place
+Contact Number: +91-9123456789
+Email: amit.sharma@gmail.com
+Occupation: Doctor
+Age: 30
+Gender: Male
+Civil Status: Single
+Citizenship: Indian
+Height: 185 cm
+Weight: 72 kg
+Religion: Buddhist
+Language: English
+Father's Name: Rajesh Sharma
+Occupation: Doctor
+Mother's Name: Sunita Sharma
+Occupation: Doctor
+Person to contact in case of emergency: Priya Sharma
+Contact Number: +91-9123456789

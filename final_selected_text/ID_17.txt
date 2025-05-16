@@ -1,0 +1,58 @@
+South Central Railway
+RESERVATION/ CANCELLATION
+REQUISITION FROM
+Com.744/FHET
+(Rev)
+If you are a Medical Practitioner, Please Tick in Box (you could be of help in an Emergency):Tick
+If you want Sr.Citizen concession, please write Yes/No in box if Yes, (Please carry a proof of
+age during the journey to avoid inconvenience of penal charting under extant Railway Rules): Yes/No
+Do you want to be upgraded without any extra charge? Write YES/No in the box (If this option
+is not exercise, full fare paying passengers may be upgraded automatically): Yes/No
+Train No. & Name:
+Date of Journey:
+Class:
+No. of Berth/Seats:
+Station From:
+To:
+Boarding at:
+Reservation Upto:
+S.No 1.2.3.4.5.6.
+Name in Block Letters (not more than 15 Characters):
+Gender(M/F):
+Age:
+Concession/Travel Authority No:
+Berth Choice Lower/Upper:
+Veg/Non-Veg.for Rajdhani Shatabi Exp Only:
+Childern below 5 years (Fo whom ticket is not to be issued)
+S.No:
+Name in block letters:
+Gender M/F:
+Age:
+Onward/Return Journey Details
+Train No. & Name:
+Date of Journey:
+Class:
+No. of Berths/Seats:
+Station From:
+To:
+Name of Applicant:
+Full Address:
+Signature of the Applicant/Representative
+Tel /Mob.No. if any:
+Date:
+Time:
+For Official Use Only
+S.No. Requisition:
+PNR No:
+Berth /Seat No:
+Amount Collected:
+Signature of Reservation Clerk
+1.Maximum permissible passengers are 6 per requisition
+2.One person can give one requisition form at a time.
+3.Please check your ticket & balance amount before leaving the window
+4.Forms not properly filled or illegible shall Inot be entertained
+5.Choice is subject to availability:
+6.Passengers booked on single ticket may or may not get compact accommodation in the upgraded class.
+7.Pregnant women travelling alone may submit certificate from a Registered Medical Practitioner to be
+considered for lower berth separately earmarked.
+

@@ -25,6 +25,9 @@ def ocr(image_path,ocr_type = "easy_ocr", lang = "en", text_type = "key"):
 
         ocr_result = reader.readtext(image_path)
 
+    elif ocr_type == "tesseract" and text_type == "val":
+        pass
+
     return ocr_result
 
 

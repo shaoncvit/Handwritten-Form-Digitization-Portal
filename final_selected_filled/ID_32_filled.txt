@@ -1,0 +1,76 @@
+HDFC BANK
+We understand your world
+INCOME-TAX RULES, 1962
+"FORM NO. 60 [See second proviso to rule 114B]
+For for declaration to be filed by individual or a person (not being a company or firm) Who does not have a pemanent account
+number and who enters into any transaction specified in rule 114B
+1. First Name: Debdeep
+Date of Birth/ Incorporation of declarant: 28/06/2001
+Middle Name: 
+Sumame: Mukherjee
+Father's Name (in case of individual)/ First Name: Saptarshi
+3.Middle Name
+Sumame: Mukherjee
+4. Flat/Room No: 
+5. Floor No: 1st
+6. Name of premises: Block C
+7. Block Name/No: B2
+8. Road/Street/Lane: Prince Anwar Shah Road
+9. Area/Locality: 
+10. Town/City: Kolkata
+11. District: Kolkata
+12. State: West Bengal
+13. Pin code: 700068
+14. Telephone Number (wth STD code): 033-28849029
+15. Mobile No: +91 9900112233
+16. Amount of tansaction (Rs): 144548
+17. Date of transaction: 15/05/2025
+18. In case of transaction in joint names, number of persons involved in the transaction: 3
+19. Mode of transaction: Draft/Banker's Cheque 
+Other: 
+20. Aadhaar Number issued by UIDAI (if available): 580584896148
+21. If applied for PAN and it is not yet generated enter date of application and acknowedgement number: 30/03/2025, ACK239252
+22. If PAN not applied, fill estimated total income (including income of spouse, minor child etc as per section 64 of Income-tax Act, 
+1961) for the financial year in wich the above transaction is held
+a. Agricultural income (Rs.): 9171
+b. Other than agricultural income (Rs): 189308
+23. Details of document being produced in 
+support of identify in Column 1 (Refer Instruction overleaf)
+Document code: A1
+Document identification number: DOC78667
+Name and address of the authority issuing the document: Govt. of India
+24. Details of document being produced in support of address in Columns 4 to 13
+(Refer Instruction overleaf)
+Document code: A1
+Document identification number: DOC78667
+Name and address of the authority issuing the document: Govt. of India
+Transaction Type: 09- Opening an account (other than savings and time deposit)
+05- Investment in time deposit
+06- Deposit in cash
+09- Opening an account (other than savings and time deposit)
+10- Account wth balance exceeding Rs. 50,000
+11- Purchase of bank drafts or pay orders
+12- Application for issue of a credit or debit card
+14- Payment in connection with travel to any foreign country
+15- Payment for purchase, or remittance outside India ,
+22- Not classified above
+Verification
+I: Debdeep Mukherjee
+do hereby declare that what is stated above is true to the best of my knowledge
+and belie. I further declare that I do not have a Permanent Account Number and my/our estimated total income (including income of spouse
+minor child etc. as per section 64 of Income-tax Act, 1961) computed in accordance with the provisions of Income-tax Act, 1961 for the financial
+year in which the above transaction is held will be less than maximum amount not chargeable to tax.
+Verified today, the: 15
+day of: May
+20: 25
+Place: Kolkata
+(Signature of Declarant): Debdeep Mukherjee
+Note: 
+1. Before signing the declaration, the declarant should satisfy himself that the infomation furnished in this form is true
+correct and complete in all respects. Any person making a false statement in the declaration shall be liable to prosecution under section 277 of the 
+Income tax Act, 1961 and on convictionbe punishable.
+(i) in a case where tax sought to be evaded exceeds twenty five lakh rupees, with rigorous imprisonment which shall not be less than six months but
+which may extend to seven years and with fine; INCOME-TAX RULES, 1962
+(ii) in any other case, with rigorous imprisonment which shall not be less than three months but which may extend to two years and with fine
+2. The person accepting the declaration shall not accept the declaration where the amount of income of the nature referred to in item 22b exceeds the maximum
+amount which is not chargeable to tax, unless PAN is applied for and column 21 is duly filled.
