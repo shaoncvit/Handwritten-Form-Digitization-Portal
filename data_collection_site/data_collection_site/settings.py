@@ -127,3 +127,6 @@ CSRF_TRUSTED_ORIGINS= ["https://ilocr.iiit.ac.in"]
 
 MEDIA_URL = '/form_collect/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+X_FRAME_OPTIONS = 'ALLOW'
+LOGIN_URL = '/form_collect/login/'
+LOGIN_REDIRECT_URL = '/form_collect/dashboard/'
